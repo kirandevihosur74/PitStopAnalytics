@@ -37,10 +37,6 @@ Open the `Data_Preprocessing.ipynb` to start with data cleaning and preprocessin
 - `models/`: Saved models and scaler objects.
 - `requirements.txt`: Required Python packages for project replication.
 
-## Contributing
-Contributions to the F1 Championship Predictor project are welcome. Please ensure to update tests as appropriate and adhere to the contributing guidelines.
-
-
 ## Contact
 For any queries or contributions, please contact Kiran Devihosur at kirandevihosur74@gmail.com
 
